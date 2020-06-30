@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 Jul 2020 01:24:59 at http://test.ethiovisit.com/social1/Apps/Andriod/Sngine/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYr20C2%Pns2u1k%s%uN0%I0p3DeK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://test.ethiovisit.com/social1/Apps/Andriod/Sngine/ -O1 "C:\Users\abdullah\Desktop\SOCIAL\android2\sngine" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:27:26	Warning: 	Retry after error -4 (No data (connection closed)) at link test.ethiovisit.com/social1/Apps/Andriod/Sngine/app/src/main/res/raw/?C=N;O=A (from test.ethiovisit.com/social1/Apps/Andriod/Sngine/app/src/main/res/raw/?C=N;O=D)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 44 seconds : 305 links scanned, 301 files written (910081 bytes overall) [792395 bytes received at 4831 bytes/sec], 446787 bytes transferred using HTTP compression in 14 files, ratio 58%, 7.0 requests per connection
+(No errors, 1 warnings, 0 messages)
